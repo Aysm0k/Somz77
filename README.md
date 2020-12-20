@@ -3,7 +3,7 @@
 <h2> 💻 À propos de moi </h2>
 
 - 🎓 Je suis étudiant.
-- 🌐 discord.gg/sdfivem
+- 🌐 discord.gg/somdev
 - 🏴 J'habite en France.
 - ⛏️ Je dev pour le projet sdFramework & Sunside (FiveM Server).
 
@@ -15,8 +15,8 @@
 
 <h4> 🛠️ Mes projets </h4>
 
-- 💻 SunSide (FiveM Serveur).
-- 🖥️ sdFramework (private framework on FiveM bientot public).
+- 💻 Aucun (FiveM Serveur).
+- 🖥️ sFramework (private framework on FiveM bientot public).
 
 <br/>
 
